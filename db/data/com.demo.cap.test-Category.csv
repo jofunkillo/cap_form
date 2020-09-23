@@ -1,0 +1,10 @@
+product;name;description;parent_product
+C100;Foods;Foods;
+C100100;Vegan;Vegan Foods;C100
+C100101;Tofu;Natural Tofu;C100100
+C100102;Salad;Mix of vegetables;C100100
+C100200;Meat;Meats;C100
+C100201;Veal;Veal 1 year;C100200
+C100202;Pork;Pork meat;C100200
+C200;Drinks;Drinks;
+C200100;Water;Still Water;C200
